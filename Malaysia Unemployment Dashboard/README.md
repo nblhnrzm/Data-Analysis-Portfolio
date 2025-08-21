@@ -40,8 +40,9 @@ Malaysia Unemployment Dashboard/
 │   └── Annual/
 │       ├── Raw/
 │       └── Cleaned/
-├── Malaysia Unemployment Dashboard.pbix   # Power BI dashboard file (to be added)
-└── dashboard_screenshots/                # Dashboard screenshots (to be added)
+├── Dashboard/
+    |   Malaysia_Unemployment_Dashboard.pbix   # Power BI dashboard file (to be added)
+    └── dashboard.pdf/                         # Dashboard screenshots (to be added)
 ```
 
 
