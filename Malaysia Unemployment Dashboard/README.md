@@ -1,7 +1,7 @@
-> **Author's Note:** This project was developed to practice and demonstrate skills in data acquisition, cleaning, and visualization using real Malaysian data.
+> **Author's Note:** This project was developed to practice and demonstrate skills in data acquisition, cleaning, and visualization using real data.
 
 
-# Malaysia Unemployment Dashboard 🇲🇾
+# Malaysia Unemployment Dashboard
 
 This project helps you acquire and clean Malaysia's unemployment data from the Department of Statistics Malaysia (DOSM) using the OpenDOSM API. The cleaned data is ready for analysis in Power BI. I have already analyzed the data in Power BI and will add dashboard screenshots soon.
 
